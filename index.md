@@ -10,9 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 <b><center>After header some bold text</center></b>
 
-<iframe width="420" height="315"
+<center><iframe width="420" height="315"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+</iframe></center>
 
 ```markdown
 Syntax highlighted code block
