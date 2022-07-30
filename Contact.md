@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact me"
-permalink: /Pages/
+permalink: /Pages/Contact/
 ---
 
 ## Welcome to Contacts
