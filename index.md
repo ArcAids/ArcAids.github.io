@@ -5,12 +5,13 @@ You can use the [editor on GitHub](https://github.com/ArcAids/ArcAids.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+<html>
 
 <head>
-  <link rel="stylesheet" href="./design.css">
+  <title>Arpit Sharma</title>
+  <link rel="stylesheet" href="design.css">
 </head>
 
-<html>
 <p>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 </p>
@@ -23,7 +24,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <tr>
     <td>
     <iframe width="420" height="315"
-    src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    src="https://www.youtube.com/embed/tgbNymZ7vqY"> video description?
     </iframe>
     </td>
     <td>
@@ -32,17 +33,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 </tr>
 <tr>
 <td>
-<video width="420" height="315" autoplay>
-  <source src="./MouseyTransitions.webm" type="video/webm">
-Your browser does not support the video tag.
-</video>
+
+<a href="https://arcaids.github.io/Pages/Contact.md">Contact</a>
+
 </td>
 <td align = center>
-<a href="https://arcaids.github.io/Resume.md">Resume</a>
+<a href="https://arcaids.github.io/Pages/Resume.html">Resume</a>
 </td>
 </tr> 
 </table>
 
+<video width="420" height="315" controls>
+  <source src="./Assets/MouseyTransitions.webm" type="video/webm">
+Your browser does not support the video tag.
+</video>
 </html>
 
 
