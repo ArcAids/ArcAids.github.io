@@ -34,7 +34,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 <tr>
 <td>
 
-<a href="https://arcaids.github.io/Pages/Contact.md">Contact</a>
+<a href="https://arcaids.github.io/Pages/Contact.html">Contact</a>
 
 </td>
 <td align = center>
