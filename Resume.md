@@ -1,11 +1,5 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ArcAids/ArcAids.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
 <head>
   <link rel="stylesheet" href="./design.css">
 </head>
@@ -15,33 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 </p>
 
-<table style="width:100%">
-<tr>
-    <th><center>Mousey is happy</center></th>
-    <th><center>Mousey just wanna shake hands</center></th>
-</tr>
-<tr>
-    <td>
-    <iframe width="420" height="315"
-    src="https://www.youtube.com/embed/tgbNymZ7vqY">
-    </iframe>
-    </td>
-    <td>
-    <img width="420" height="315" src="./Assets/MouseyComingForYa.gif">
-    </td>
-</tr>
-<tr>
-<td>
-<video width="420" height="315" autoplay>
-  <source src="./MouseyTransitions.webm" type="video/webm">
-Your browser does not support the video tag.
-</video>
-</td>
-<td align = center>
-<a href="https://arcaids.github.io/Resume.md">Resume</a>
-</td>
-</tr> 
-</table>
+<a href= "./index.md"></a>
 
 </html>
 
